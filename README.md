@@ -1,2 +1,2 @@
-# Home-Work-1
-Excel Homework 
+# excel-challenge
+Excel Homework 1 
